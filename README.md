@@ -1,4 +1,4 @@
-![Header]()
+![Header](https://github.com/COMRADE-TITHY/COMRADE-TITHY/blob/main/github-header-image%20(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Tithy Mondal</h1>
 <h3 align="center">🚀 Excited to collaborate on interesting projects and contribute to the tech community!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=COMRADE-TITHY&label=Profile%20views&color=0e75b6&style=flat" alt="COMRADE-TITHY" /> </p>
