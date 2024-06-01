@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=COMRADE-TITHY&theme=" alt="COMRADE-TITHY" /></a> </p>
 
+- 💻 Passionate about software development and always eager to learn new technologies.
+- 🔭 I’m currently working on improving my skills in full-stack development.
 - 🌱 I’m learning more about **machine learning and data analytics**
 
-- 📫 How to reach me **tithymon4@gmail.com**
-
-<div> <a href="https://www.linkedin.com/in/TITHY MONDAL" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/tithy-mondal-a28b5125b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/COMRADE-TITHY" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:tithymon4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
